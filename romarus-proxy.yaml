@@ -1,8 +1,14 @@
 payload:
+  - GEOSITE,youtube
+  - GEOSITE,google-gemini
+  - GEOSITE,ookla-speedtest
+  - GEOSITE,cloudflare
+  - PROCESS-NAME,Discord.exe
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN,2ip.io
+  - DOMAIN-SUFFIX,dnsleaktest.com
+  - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,airbnb.com
   - DOMAIN-SUFFIX,udemy.com
-  - DOMAIN-SUFFIX,сomptia.org
-  - DOMAIN-SUFFIX,di.fm
   - DOMAIN-SUFFIX,kde.org
-  - DOMAIN-SUFFIX,ubuntu.ru
   - DOMAIN-SUFFIX,spotify.com
