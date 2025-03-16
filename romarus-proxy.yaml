@@ -3,7 +3,6 @@ payload:
   - GEOSITE,google-gemini
   - GEOSITE,ookla-speedtest
   - GEOSITE,cloudflare
-  - PROCESS-NAME,Discord.exe
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN,2ip.io
   - DOMAIN-SUFFIX,dnsleaktest.com
@@ -12,3 +11,7 @@ payload:
   - DOMAIN-SUFFIX,udemy.com
   - DOMAIN-SUFFIX,kde.org
   - DOMAIN-SUFFIX,spotify.com
+  - PROCESS-NAME,Discord.exe
+  - PROCESS-PATH-REGEX,.*/com.discordapp.Discord/.*/files/discord/Discord,PROXY
+  - PROCESS-NAME-REGEX,(?i).*discord.*,PROXY
+  
