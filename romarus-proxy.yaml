@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,kde.org
   - DOMAIN-SUFFIX,spotify.com
   - PROCESS-NAME-REGEX,(?i).*discord.* 
+  - DOMAIN-SUFFIX,wisconsinhistory.org
