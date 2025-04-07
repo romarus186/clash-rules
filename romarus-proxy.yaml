@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,spotify.com
   - PROCESS-NAME-REGEX,(?i).*discord.* 
   - DOMAIN-SUFFIX,wisconsinhistory.org
+  - DOMAIN-SUFFIX,promods.net
