@@ -14,5 +14,4 @@ payload:
   - PROCESS-NAME-REGEX,(?i).*discord.* 
   - DOMAIN-SUFFIX,wisconsinhistory.org
   - DOMAIN-SUFFIX,promods.net
-  - GEOSITE,promods
-  - GEOSITE,promods.net
+  - DOMAIN-SUFFIX,whatismyip.com
