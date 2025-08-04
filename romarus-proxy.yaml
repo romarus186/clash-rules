@@ -14,4 +14,3 @@ payload:
   - PROCESS-NAME-REGEX,(?i).*discord.* 
   - DOMAIN-SUFFIX,anonfile.de
   - DOMAIN-SUFFIX,ranoz.gg
-  - DOMAIN-SUFFIX,preply.com
