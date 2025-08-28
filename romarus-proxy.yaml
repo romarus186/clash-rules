@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,kde.org
   - DOMAIN-SUFFIX,spotify.com
   - PROCESS-NAME-REGEX,(?i).*discord.* 
+  - PROCESS-NAME-REGEX,(?i).*StarCitizen.* 
   - DOMAIN-SUFFIX,anonfile.de
   - DOMAIN-SUFFIX,ranoz.gg
   - DOMAIN-SUFFIX,steamdb.info
+
