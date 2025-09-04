@@ -16,4 +16,4 @@ payload:
   - DOMAIN-SUFFIX,anonfile.de
   - DOMAIN-SUFFIX,ranoz.gg
   - DOMAIN-SUFFIX,steamdb.info
-
+  - GEOSITE,deepl
