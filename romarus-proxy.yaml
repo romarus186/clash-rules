@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,steamdb.info
   - DOMAIN-SUFFIX,nexusmods.com
   - GEOSITE,deepl
+  - PROCESS-NAME,sekiro.exe,PROXY
