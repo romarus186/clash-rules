@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,nexusmods.com
   - GEOSITE,deepl
   - PROCESS-NAME,sekiro.exe,PROXY
+  - DOMAIN-SUFFIX,mtcc.mv
