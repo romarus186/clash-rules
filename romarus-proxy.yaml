@@ -19,4 +19,4 @@ payload:
   - GEOSITE,deepl
   - PROCESS-NAME,sekiro.exe,PROXY
   - DOMAIN-SUFFIX,mtcc.mv
-   - DOMAIN-SUFFIX,utair.ru
+  - DOMAIN-SUFFIX,utair.ru
