@@ -1,4 +1,4 @@
 payload:
-- PROCESS-NAME,sekiro.exe
-- DOMAIN-SUFFIX,browserleaks.com
-- DOMAIN-SUFFIX,dnsleaktest.com
+  - PROCESS-NAME,sekiro.exe
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,dnsleaktest.com
