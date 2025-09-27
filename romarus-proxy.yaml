@@ -1,22 +1,2 @@
 payload:
-  - GEOSITE,youtube
-  - GEOSITE,google-gemini
-  - GEOSITE,ookla-speedtest
-  - GEOSITE,cloudflare
-  - DOMAIN-SUFFIX,ip.sb
-  - DOMAIN,2ip.io
-  - DOMAIN-SUFFIX,dnsleaktest.com
-  - DOMAIN-SUFFIX,browserleaks.com
-  - DOMAIN-SUFFIX,airbnb.com
-  - DOMAIN-SUFFIX,udemy.com
-  - DOMAIN-SUFFIX,kde.org
-  - DOMAIN-SUFFIX,spotify.com
-  - PROCESS-NAME-REGEX,(?i).*discord.* 
-  - DOMAIN-SUFFIX,anonfile.de
-  - DOMAIN-SUFFIX,ranoz.gg
-  - DOMAIN-SUFFIX,steamdb.info
-  - DOMAIN-SUFFIX,nexusmods.com
-  - GEOSITE,deepl
-  - PROCESS-NAME,sekiro.exe,PROXY
-  - DOMAIN-SUFFIX,mtcc.mv
-  - DOMAIN-SUFFIX,utair.ru
+- PROCESS-NAME,sekiro.exe,PROXY
