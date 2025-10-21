@@ -7,3 +7,6 @@ payload:
   - DOMAIN-SUFFIX,gofile.io
   - DOMAIN-SUFFIX,mtcc.mv
   - DOMAIN-SUFFIX,rtl.mv
+  - PROCESS-NAME-REGEX,(?i).*whatsapp.*
+  - PROCESS-NAME-REGEX,(?i).*telegram.*,PROXY
+
