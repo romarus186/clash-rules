@@ -11,4 +11,4 @@ payload:
   - DOMAIN-SUFFIX,ocbase.com
   - DOMAIN-SUFFIX,xpg.com
   - PROCESS-NAME-REGEX,XPG-Prime.exe
-- DOMAIN-SUFFIX,asrock.com
+  - DOMAIN-SUFFIX,asrock.com
