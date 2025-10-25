@@ -9,4 +9,4 @@ payload:
   - DOMAIN-SUFFIX,rtl.mv
   - PROCESS-NAME-REGEX,(?i).*whatsapp.*
   - DOMAIN-SUFFIX,ocbase.com
-  
+  - DOMAIN-SUFFIX,xpg.com
