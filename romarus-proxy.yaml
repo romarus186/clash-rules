@@ -1,11 +1,12 @@
 payload:
   - PROCESS-NAME,sekiro.exe
+  - DOMAIN-SUFFIX,fromsoftware.jp
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,dnsleaktest.com
-  - DOMAIN-SUFFIX,fromsoftware.jp
   - DOMAIN-SUFFIX,uploadflix.cc
   - DOMAIN-SUFFIX,gofile.io
   - DOMAIN-SUFFIX,mtcc.mv
   - DOMAIN-SUFFIX,rtl.mv
   - PROCESS-NAME-REGEX,(?i).*whatsapp.*
+  - DOMAIN-SUFFIX,ocbase.com
   
