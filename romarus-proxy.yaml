@@ -10,3 +10,4 @@ payload:
   - PROCESS-NAME-REGEX,(?i).*whatsapp.*
   - DOMAIN-SUFFIX,ocbase.com
   - DOMAIN-SUFFIX,xpg.com
+  - PROCESS-NAME-REGEX,XPG-Prime.exe
