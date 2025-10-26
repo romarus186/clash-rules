@@ -13,3 +13,4 @@ payload:
   - PROCESS-NAME-REGEX,XPG-Prime.exe
   - DOMAIN-SUFFIX,asrock.com
   - DOMAIN-SUFFIX,ugreen.com
+  - DOMAIN-SUFFIX,asus.com
