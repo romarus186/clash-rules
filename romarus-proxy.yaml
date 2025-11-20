@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,firefox.real
   - PROCESS-NAME,sekiro.exe
   - DOMAIN-SUFFIX,fromsoftware.jp
   - DOMAIN-SUFFIX,browserleaks.com
