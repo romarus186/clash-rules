@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,uploadflix.cc
   - DOMAIN-SUFFIX,gofile.io
   - DOMAIN-SUFFIX,anonfile.de
+  - DOMAIN-SUFFIX,download.gg
   - DOMAIN-SUFFIX,mtcc.mv
   - DOMAIN-SUFFIX,rtl.mv
   - PROCESS-NAME-REGEX,(?i).*whatsapp.*
