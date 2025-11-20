@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,lyrebird
   - PROCESS-NAME,firefox.real
   - PROCESS-NAME,tor
   - PROCESS-NAME,sekiro.exe
