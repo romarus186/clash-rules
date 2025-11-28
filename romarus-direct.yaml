@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,truenetwork.ru
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,flathub.org
+  - PROCESS-NAME-REGEX,(?i)^telegram.*
